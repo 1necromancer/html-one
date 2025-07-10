@@ -7,4 +7,4 @@ Tags I used:
 - a, img
 
 
-Also tried to use branches and deploy on GitHub
+**Also tried to use branches and deploy on GitHub**
